@@ -25,7 +25,7 @@ Give an idea of what the activity is.
 
 ### If your meeting place has WiFi
 
-Run Scratch online in a web browser with an internet connection and open the "leaf id" starter project using this link [rpf.io/scouts-compass-on](http://rpf.io/scouts-compass-on).
+Run Scratch online in a web browser with an internet connection and open Compass Coding project using this link [rpf.io/scouts-compass-on](http://rpf.io/scouts-compass-on).
 
 ### If your meeting place doesn’t have WiFi
 
